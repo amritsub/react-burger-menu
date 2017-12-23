@@ -31,7 +31,7 @@ let styles = {
       OTransform: isOpen ? '' : right ? 'translate3d(100vh, 0, 0)' : 'translate3d(-100vh, 0, 0)',
       WebkitTransform: isOpen ? '' : right ? 'translate3d(100vh, 0, 0)' : 'translate3d(-100vh, 0, 0)',
       transform: isOpen ? '' : right ? 'translate3d(100vh, 0, 0)' : 'translate3d(-100vh, 0, 0)',
-      transition: 'all 0.5s'
+      transition: 'all 0.7s'
     };
   },
 
